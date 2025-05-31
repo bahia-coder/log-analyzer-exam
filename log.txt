@@ -1,0 +1,5 @@
+INFO Service démarré
+ERROR Problème de base de données
+WARNING Mémoire presque pleine
+INFO Traitement terminé
+ERROR Timeout de connexion
